@@ -17,10 +17,10 @@ export default function Home() {
       <main className={styles.main}>
       <div className={styles.container}>
   <h2 className={styles.title}>
-    <span className={styles.titleWordA}>I</span>
-    <span className={styles.titleWordB}>love</span>
-    <span className={styles.titleWordC}>you</span>
-    <span className={styles.titleWordD}>Gracie</span>
+    <span className={styles.titleWordA}>I </span>
+    <span className={styles.titleWordB}>love </span>
+    <span className={styles.titleWordC}>you </span>
+    <span className={styles.titleWordD}>Gracie </span>
     <span className={styles.titleWordE}>;P</span>
   </h2>
 </div>

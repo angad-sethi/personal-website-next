@@ -252,9 +252,9 @@
 
 .titleWordD {
   animation: color-animation 4s linear infinite;
-  --color-1: #DF8453;
-  --color-2: #3D8DAE;
-  --color-3: #E4A9A8;
+  --color-1: #02fdd3;
+  --color-3: #ffdd00;
+  --color-2: #00ff73;
 }
 
 .titleWordB {
@@ -276,7 +276,7 @@
 
   --color-1: #3D8DAE;
   --color-2: #325217;
-  --color-3: #410e0d;
+  --color-3: #b3ff00;
 }
 
 .titleWordE {
@@ -305,6 +305,6 @@
 .title {
   font-family: "Montserrat", sans-serif;
   font-weight: 800;
-  font-size: 8.5vw;
+  font-size: 2.5vw;
   text-transform: uppercase;
 }
